@@ -39,15 +39,16 @@ This project involves designing and implementing a relational database system fo
 
 
 ## Key Results
-- Successfully built relational database schema  
-- Optimized queries using indexes  
-- Extracted business insights using advanced SQL queries  
+- Built a fully functional relational database with multiple linked tables  
+- Successfully transformed raw data into structured business tables  
+- Executed complex SQL queries including joins, aggregations, and window functions  
 
 
 ## Business Insights
-- Identified top-performing products and customers  
-- Analyzed sales trends  
-- Improved data organization for decision-making  
+- Identified top-performing products contributing to overall sales  
+- Analyzed customer purchasing patterns to support marketing strategies  
+- Demonstrated how structured data enables better business decision-making  
+
 
 
 
